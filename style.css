@@ -1,0 +1,22 @@
+h1
+
+{
+    text-align: center;
+    font-variant: small-caps;
+    font-size :50px ;
+    color: rgb(130, 143, 143);
+    background-color: rgb(29, 43, 56);
+    padding: 10px;
+    border: 10px solid;
+    border-color: rgb(0, 0, 0);
+}
+body
+{
+    background-image: url(https://i.pinimg.com/originals/73/fa/c5/73fac5f743727f3b790a5436ba7b0db8.jpg);
+    background-position: center;
+}
+p
+{
+    font-size: 21px;
+    color: rgb(130, 143, 143);
+}
